@@ -1,2 +1,1 @@
-# GitPractice
-Practicing Github
+# About me
