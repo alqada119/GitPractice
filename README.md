@@ -5,4 +5,4 @@
 4. I love to play soccer ⚽️, sing 🎤, and develop games 🎮
 
 # I am fluent in these languages:
-![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![picture alt]([https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://logos-world.net/java-logo/)) ![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
