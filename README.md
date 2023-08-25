@@ -14,4 +14,4 @@ Currently, I'm immersing myself in the realm of Web Development. Always open to 
 
 ### 📬 Let's Connect:
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/ahmed-a-858097130/)  
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/ahmed-a-858097130/). Looking forward to talking about tech and soccer!
