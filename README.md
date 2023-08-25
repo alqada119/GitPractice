@@ -1,8 +1,17 @@
-# About me 🗒
-1. My name is Ahmed Alqadoucy
-2. I am currently a computer science student at MNSU
-3. I am originally from Egypt, but lived the majority of my life in Saudi Arabia
-4. I love to play soccer ⚽️, sing 🎤, and develop games 🎮
+## 🚀 Welcome to My GitHub World! 🌟
 
-# I am fluent in these languages:
-![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![picture alt]([https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://logos-world.net/java-logo/)) ![picture alt](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+### Hey there! 👋 I'm Ahmed Tamer, a Multilingual Developer 🌐
+
+Besides my passion for code, I also enjoy cooking🍳, singing🎤, and playing soccer⚽
+
+### 💼 My Arsenal of Skills:
+
+- **Languages**: Python, Java, JavaScript, HTML, CSS, SQL, C#, JSON,Swift
+- **Frameworks**: Node.js, Django
+### 🌐 What I'm Up To:
+
+Currently, I'm immersing myself in the realm of Web Development. Always open to intriguing collaborations and ingenious projects!
+
+### 📬 Let's Connect:
+
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/ahmed-a-858097130/)  
