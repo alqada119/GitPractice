@@ -7,7 +7,7 @@ Besides my passion for code, I also enjoy cooking🍳, singing🎤, and playing 
 ### 💼 My Arsenal of Skills:
 
 - **Languages**: Python, Java, JavaScript, HTML, CSS, SQL, C#, JSON,Swift
-- **Frameworks**: Node.js, Django
+- **Frameworks**: Node.js, Django, Jest
 ### 🌐 What I'm Up To:
 
 Currently, I'm immersing myself in the realm of Web Development. Always open to intriguing collaborations and ingenious projects!
