@@ -1,4 +1,4 @@
-## 🚀 Welcome to My GitHub! 🌟
+##  Welcome to My GitHub! 💻
 
 ### Hey there! 👋 I'm Ahmed Tamer, a Multilingual Developer 🌐
 
